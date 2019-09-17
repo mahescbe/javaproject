@@ -1,4 +1,5 @@
 package com.in28minutes.maven;
+# some comment
 
 /**
  * Hello World test!
